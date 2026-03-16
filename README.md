@@ -25,7 +25,7 @@
 ```javascript
 const nicolas = {
   nombre:       "Nicolas Corera",
-  rol:          "Frontend Developer Jr.",
+  rol:          "Full Stack.",
   ubicacion:    "🌍 Disponible Remotamente",
   descripcion:  "Comprometido con el código limpio y las mejores prácticas de desarrollo.",
   actualmente:  "Construyendo proyectos web modernos y aprendiendo cada día",
@@ -33,6 +33,7 @@ const nicolas = {
   
   stack: {
     frontend:   ["HTML5", "CSS3", "JavaScript"],
+    backend:    ["Node JS", "php", "MySQL", "SQL", "MONGODB", "REACT"]
     animaciones:["GSAP", "CSS Animations"],
     tools:      ["Git", "GitHub", "VS Code", "FontAwesome"],
     storage:    ["localStorage", "JSZip", "SheetJS"],
