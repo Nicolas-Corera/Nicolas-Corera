@@ -64,20 +64,20 @@ Me especializo en construir plataformas web completas, desde cero, con foco en l
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=nicolascorera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolascorera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nicolas-Corera&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nicolas-Corera&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nicolascorera&theme=tokyonight&hide_border=true" height="180em"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nicolas-Corera&theme=tokyonight&hide_border=true" height="180em"/>
 
 </div>
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nicolascorera&theme=tokyo-night&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nicolas-Corera&theme=tokyo-night&hide_border=true)
 
 </div>
 
@@ -204,9 +204,9 @@ He desarrollado sitios web para clientes reales en el área de Buenos Aires, inc
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolascorera@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nicolascorera)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://nicolascorera.github.io)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Nicolas-Corera@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicolas-Corera)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://Nicolas-Corera.github.io)
 
 </div>
 
