@@ -12,7 +12,7 @@
 
 </div>
 
-Soy **Nicolás Corera**, desarrollador Full Stack Jr. y estudiante de Sistemas en la **Universidad Torcuato Di Tella (UTDT)**, Buenos Aires, Argentina 🇦🇷.
+Soy **Nicolás Corera**, desarrollador Full Stack. y estudiante de Sistemas en la **Universidad Torcuato Di Tella (UTDT)**, Buenos Aires, Argentina 🇦🇷.
 
 Me especializo en construir plataformas web completas, desde cero, con foco en la experiencia del usuario, arquitecturas limpias y backends en tiempo real. Trabajo tanto en proyectos personales y académicos como en clientes reales.
 
