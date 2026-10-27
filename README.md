@@ -81,80 +81,40 @@ Me especializo en construir plataformas web completas desde cero, con foco en la
 <tr>
 <td width="50%">
 
-### CRAFTEADOS - Launcher de Minecraft
+### Intercomsite
 
-Launcher de escritorio construido con **Electron** para una comunidad de jugadores. Incluye autenticación con Microsoft OAuth, modo offline, instalación automática de **Java 21**, gestión de loaders **Fabric** y **Forge**, descarga de modpacks desde **Cloudflare R2** y persistencia de sesión.
+[Descripción breve: qué hace, para quién y qué lo hace interesante.]
 
-`Electron` `Node.js` `Cloudflare R2` `Microsoft OAuth`
-
-</td>
-<td width="50%">
-
-### LUCIFER - Plataforma de juegos multijugador
-
-Plataforma multijuego con **Firebase Auth, Firestore y Realtime Database**. Incluye salas en tiempo real, apuestas con fichas, modo espectador, temporizadores de turno, penalidades por abandono y bots de prueba con **Playwright**. Juegos disponibles: Generala, Tateti Ultimate y Damas.
-
-`Firebase` `Firestore` `RTDB` `Playwright` `JavaScript`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### VivArq - Marketplace de arquitectura
-
-Marketplace para profesionales de la construcción en Argentina. Más de 19 páginas HTML y 23 módulos JavaScript, chat en tiempo real con **Firebase RTDB**, inicio de sesión con Google, perfiles de usuario, consentimiento de cookies, páginas legales y CSS modular.
-
-`Firebase` `RTDB` `Google Auth` `CSS modular` `JavaScript`
+`HTML5` `CSS3` `JavaScript`
 
 </td>
 <td width="50%">
 
-### ParKing - Reservas de estacionamiento
+### Computersell
 
-Sistema con roles diferenciados (dueños y usuarios), mapas con **Leaflet**, carga de imágenes con **Cloudinary**, editor de playas con **Canvas API**, verificación por PIN y códigos de reserva con expiración a los 15 minutos.
+[Descripción breve: qué hace, para quién y qué lo hace interesante.]
 
-`Firebase` `Leaflet` `Cloudinary` `Canvas API` `Firestore`
+`HTML5` `CSS3` `JavaScript` `SUPABASE` `SQL`
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Pizarrón Interactivo - Herramienta educativa
+### Mi portfolio
 
-Herramienta educativa basada en **Canvas** para docentes y alumnos, con modelo de permisos, línea de tiempo cronológica con paneo y zoom, modales de eventos, etiquetas reveladas dinámicamente y backend en **Firebase RTDB**.
+[Descripción breve: cómo está hecho y qué muestra.]
 
-`Canvas API` `Firebase RTDB` `JavaScript` `Permisos por rol`
-
-</td>
-<td width="50%">
-
-### ChronoCapsule - Cápsula del tiempo digital
-
-Prototipo de cápsulas del tiempo digitales. Frontend en **JavaScript vanilla y GSAP**, con una secuencia animada de apertura, y backend en **Cloudflare Workers** con almacenamiento en **D1** y **R2**.
-
-`Cloudflare Workers` `D1` `R2` `GSAP` `Vanilla JS`
-
-</td>
-</tr>
-<tr>
-<td width="50%">
-
-### CEIEM - Sistema de votación
-
-Sistema de votación para un centro de estudiantes, con **Firebase**, resultados animados en tiempo real y protecciones contra el voto duplicado.
-
-`Firebase` `JavaScript` `Animaciones CSS`
+`HTML5` `CSS3` `JavaScript`
 
 </td>
 <td width="50%">
 
-### QRFT - Generador de códigos QR
+### Gastos mensuales
 
-Generador de QR con backend en **Supabase**, nombres de archivo dinámicos al exportar, estilos personalizados (punto y redondeado) mediante acceso directo a las matrices y panel de historial.
+[Descripción breve: qué permite registrar o controlar y cómo funciona.]
 
-`Supabase` `JavaScript` `Canvas API`
+`HTML5` `CSS3` `JavaScript` `FIREBASE`
 
 </td>
 </tr>
@@ -166,11 +126,7 @@ Generador de QR con backend en **Supabase**, nombres de archivo dinámicos al ex
 
 He desarrollado sitios web para clientes reales en el área de Buenos Aires:
 
-- **Los Machos:** landing page para barbería, con animaciones GSAP y carrusel personalizado.
-- **Picaros:** sitio para un salón de eventos infantiles.
-- **Marcela Mugnai:** sitio para una panadería artesanal.
 - **Alquiler San Bernardo del Tuyú:** sitio de alquiler vacacional con reseñas en Firebase, FullCalendar y sistema de reservas por rango de fechas.
-- **Catálogo de moda:** sitio catálogo con galería interactiva.
 
 ---
 
