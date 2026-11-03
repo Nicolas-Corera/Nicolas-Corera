@@ -83,7 +83,7 @@ Me especializo en construir plataformas web completas desde cero, con foco en la
 
 ### Intercomsite
 
-[Descripción breve: qué hace, para quién y qué lo hace interesante.]
+Diseño y desarrollo web a medida para negocios de Buenos Aires y todo el país: landing pages, sitios institucionales, tiendas online y sistemas.
 
 `HTML5` `CSS3` `JavaScript`
 
@@ -92,7 +92,7 @@ Me especializo en construir plataformas web completas desde cero, con foco en la
 
 ### Computersell
 
-[Descripción breve: qué hace, para quién y qué lo hace interesante.]
+Sitio estático (HTML/CSS/JS sin build) conectado a Supabase (Auth, Postgres, Storage y Realtime). Todo lo que se ve en la tienda y en el panel sale de la base y se actualiza en tiempo real.
 
 `HTML5` `CSS3` `JavaScript` `SUPABASE` `SQL`
 
@@ -103,7 +103,7 @@ Me especializo en construir plataformas web completas desde cero, con foco en la
 
 ### Mi portfolio
 
-[Descripción breve: cómo está hecho y qué muestra.]
+Sitio web de portfolio de Nicolás Corera, desarrollador Full Stack Jr.
 
 `HTML5` `CSS3` `JavaScript`
 
@@ -112,7 +112,7 @@ Me especializo en construir plataformas web completas desde cero, con foco en la
 
 ### Gastos mensuales
 
-[Descripción breve: qué permite registrar o controlar y cómo funciona.]
+Aplicación web para llevar el control de las finanzas personales: suscripciones, tarjetas de crédito, gastos extras e inversiones, todo en un solo lugar y pensado para el contexto argentino (pesos, dólares y cotizaciones en tiempo real).
 
 `HTML5` `CSS3` `JavaScript` `FIREBASE`
 
